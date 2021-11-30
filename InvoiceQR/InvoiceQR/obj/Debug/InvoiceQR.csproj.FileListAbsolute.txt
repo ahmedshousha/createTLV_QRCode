@@ -1,0 +1,11 @@
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\bin\Debug\InvoiceQR.exe.config
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\bin\Debug\InvoiceQR.exe
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\bin\Debug\InvoiceQR.pdb
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\bin\Debug\QRCoder.dll
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\obj\Debug\InvoiceQR.csprojAssemblyReference.cache
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\obj\Debug\InvoiceQR.InvoiceQR.resources
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\obj\Debug\InvoiceQR.Properties.Resources.resources
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\obj\Debug\InvoiceQR.csproj.GenerateResource.cache
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\obj\Debug\InvoiceQR.csproj.CopyComplete
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\obj\Debug\InvoiceQR.exe
+D:\projects\VisualStudio\InvoiceQR\InvoiceQR\obj\Debug\InvoiceQR.pdb
